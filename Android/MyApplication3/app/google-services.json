@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1000824563893",
+    "firebase_url": "https://fireman-c4326.firebaseio.com",
+    "project_id": "fireman-c4326",
+    "storage_bucket": "fireman-c4326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000824563893:android:35bd415c064cfc72",
+        "android_client_info": {
+          "package_name": "com.omaroid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000824563893-irun2c12ir1rkctbsrdh5o8sukqb3s90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omaroid.myapplication",
+            "certificate_hash": "9e77a9e368c98a969cd0ee4d6f4be8337e85025c"
+          }
+        },
+        {
+          "client_id": "1000824563893-urmfflsg7aglhi95uhc3flm8a8tbo678.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJm7YY9IrWI6JcVmn7G6Fl_96EwpRrtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000824563893-urmfflsg7aglhi95uhc3flm8a8tbo678.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
